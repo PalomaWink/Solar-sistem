@@ -2,7 +2,6 @@ import React from 'react';
 import Title from './Title';
 import MissionCard from './MissionCard';
 import missions from '../data/missions';
-import './Body.css';
 
 class Missions extends React.Component {
   render() {
