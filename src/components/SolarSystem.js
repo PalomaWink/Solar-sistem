@@ -9,7 +9,7 @@ class SolarSystem extends React.Component {
       <div data-testid="solar-system">
         {/* Essa é uma forma de atribuir um valor único a uma prop, quando ele não vem de outro lugar (linha 9) */}
         <Title headline="Planetas" />
-        <div className="planet__cards">
+        <div className="flex flex-row text-white text-center font-thin">
           {planets.map((planet) => (
             <PlanetCard
               key={ planet.name }

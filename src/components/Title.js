@@ -5,7 +5,16 @@ class Title extends React.Component {
   render() {
     const { headline } = this.props;
     return (
-      <h2 className="title_subtitle">{ headline }</h2>
+      <h2
+        className="title_subtitle
+      text-white
+        text-center
+        text-4xl
+        p-8
+        font-thin"
+      >
+        { headline }
+      </h2>
     );
   }
 }
