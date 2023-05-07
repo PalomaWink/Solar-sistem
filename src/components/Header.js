@@ -9,12 +9,11 @@ class Header extends React.Component {
           className="
           text-white
           text-center
-          text-5xl
+          text-7xl
           p-8
           font-thin"
         >
           Sistema Solar
-
         </h1>
       </header>
     );

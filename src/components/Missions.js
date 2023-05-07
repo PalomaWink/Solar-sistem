@@ -11,12 +11,16 @@ class Missions extends React.Component {
         bg-gray-400/20
         m-10
         text-white
-        rounded-md
+        rounded-3xl
         "
       >
-        <div data-testid="missions" />
-        <Title headline="Missões" />
-        <div className="flex flex-wrap justify-between ">
+        <div
+          data-testid="missions"
+          className="p-7 text-center font-thin text-6xl m-8"
+        >
+          Missões
+        </div>
+        <div className="flex flex-wrap justify-around">
           {missions.map((mission) => (
             <MissionCard
               key={ mission.name }

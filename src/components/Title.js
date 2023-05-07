@@ -11,7 +11,8 @@ class Title extends React.Component {
         text-center
         text-4xl
         p-8
-        font-thin"
+        font-thin
+        "
       >
         { headline }
       </h2>

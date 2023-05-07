@@ -7,9 +7,7 @@ import './index.css';
 class App extends React.Component {
   render() {
     return (
-      <div
-        className="bg-cover bg-center h-screen"
-      >
+      <div>
         <Header />
         <SolarSystem />
         <Missions />
