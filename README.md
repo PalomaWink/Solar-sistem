@@ -1,7 +1,7 @@
 
 # 🌞 Solar Sistem 🌞
 
-Primeiro projeto desenvolvido durante a trajetória de aprendizado de React, com ele aprendi a criar e manipular props dentro de uma aplicação;
+Este projeto é um simulador do sistema solar desenvolvido usando React. O objetivo do projeto é demonstrar os principais conceitos do React, como componentes, props e estado.
 
 ## Aprendizados
 
@@ -18,3 +18,8 @@ Primeiro projeto desenvolvido durante a trajetória de aprendizado de React, com
 * 🌞 Fazer uso de props corretamente;
 
 * 🛸 Fazer uso de PropTypes para validar as props de um componente;
+
+## Video
+<video width="640" height="480" controls autoplay>
+  <source src="./src/images/Gravação-de-tela-de-15-10-2023-17_24_01.mp4" type="video/mp4">
+</video>
