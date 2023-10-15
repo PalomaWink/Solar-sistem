@@ -19,7 +19,30 @@ Este projeto é um simulador do sistema solar desenvolvido usando React. O objet
 
 * 🛸 Fazer uso de PropTypes para validar as props de um componente;
 
-## Video
-<video width="640" height="480" controls autoplay>
-  <source src="./src/images/Gravação-de-tela-de-15-10-2023-17_24_01.mp4" type="video/mp4">
-</video>
+## Rodando o projeto 🚀
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/PalomaWink/Solar-system.git
+```
+
+Vá para o diretório do projeto
+
+```bash
+  cd Solar-system
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+---
